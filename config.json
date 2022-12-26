@@ -2,10 +2,15 @@
   "lastversion": 6,
   "package": "com.easyapps.zkplayerpro",
   "banners": [
-    "R-M-1762921-1"
+    {
+      "service": "y",
+      "id": "R-M-1762921-1"
+    }
   ],
   "mejs": [
-    "R-M-1762921-2"
-  ],
-  "ads": "y"
+    {
+      "service": "y",
+      "id": "R-M-1762921-2"
+    }
+  ]
 }
