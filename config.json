@@ -1,16 +1,25 @@
+
 {
   "lastversion": 6,
   "package": "com.easyapps.zkplayerpro",
   "banners": [
     {
       "service": "y",
-      "id": "R-M-1762921-1"
+      "id": "demo-banner-yandex"
+    },
+    {
+      "service": "g",
+      "id": "ca-app-pub-3940256099942544/6300978111"
     }
   ],
   "mejs": [
     {
       "service": "y",
-      "id": "R-M-1762921-2"
+      "id": "demo-interstitial-yandex"
+    },
+    {
+      "service": "g",
+      "id": "ca-app-pub-3940256099942544/1033173712"
     }
   ]
 }
