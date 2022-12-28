@@ -4,13 +4,14 @@
   "package": "com.easyapps.zkplayerpro",
   "banners": [
     {
-      "service": "g",
-      "id": "ca-app-pub-3940256099942544/6300978111"
-    },
-    {
       "service": "y",
       "id": "demo-banner-yandex"
+    },
+    {
+      "service": "g",
+      "id": "ca-app-pub-3940256099942544/6300978111"
     }
+   
    
   ],
   "mejs": [
