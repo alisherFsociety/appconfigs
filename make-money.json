@@ -1,0 +1,29 @@
+
+{
+    "lastversion": 1,
+    "package": "package",
+    "banners": [
+      {
+        "service": "y",
+        "id": "demo-banner-yandex"
+      },
+      {
+        "service": "g",
+        "id": "ca-app-pub-3940256099942544/6300978111"
+      }
+     
+     
+    ],
+    "mejs": [
+      {
+        "service": "g",
+        "id": "ca-app-pub-3940256099942544/1033173712"
+      },
+      {
+        "service": "y",
+        "id": "demo-interstitial-yandex"
+      }
+      
+    ]
+  }
+  
